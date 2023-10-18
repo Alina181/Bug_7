@@ -14,7 +14,6 @@
 }
 
 .App-header {
-  background-image: url("./component/Menu/image/fon.jpg");
   background-size: cover;
   min-height: 100vh;
   display: flex;
